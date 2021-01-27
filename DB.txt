@@ -1,0 +1,9 @@
+1. Visando a escalabilidade do sistema, o sistema em Cloud é o ideal.
+
+2. Algumas ferramentas me vem a mente. Começando pela mais simples e rápida de implementar, teríamos o Trello. Jira e Microsoft Azure também podem ser utilizadas, são ferramentas mais complexas e com mais funcionailidades. Ideais para serem usadas visando o crescimento do time e o inicio de outros projetos. São ferramentas ágeis.
+
+3. Sim. Em meu estágio lidei diretamente com a gestão de pessoas. Em meu emprego atual com desenvolvimento de software, eventualmente lidero uma pequena equipe de novatos para juntos, completarmos as demandas propostas.
+
+4. 
+
+5. Sim. O projeto envolve um problema que pode ser encontrado no mercado, o que o torna bastante interessante.
